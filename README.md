@@ -1,8 +1,13 @@
 # Domoticz-Secpanel
 Custom Securitypanel for Domoticz
 
-To use the new security panel rename the file index.html to index.html.old and
+Installation:
+Go to ../domoticz/www/secpanel
 
-then rename the file index.html.new to index.html
+Rename index.html (eg.'index.old')
 
-when you start/refresh domoticz (you might need to clear cache also), you should now see the new security panel
+Copy and paste the files
+
+Then rename the file new_index.html to index.html
+
+Next start/refresh domoticz (you might need to clear cache also), you should now see the new security panel
