@@ -16,4 +16,4 @@ Next start/refresh domoticz (you might need to clear cache also), you should now
 ![alt tag](http://www.accentaplast.se/wordpress/wp-content/uploads/2017/11/Secpanel.jpg)
 
 # Donate
-Do you appreciate my work and want to buy me a beer? You can send Bitcoins to 1PS4MVjzMojF9xX472yc87QVaVmhai8jKA
+Do you appreciate my work and want to buy me a coffee? You can send Bitcoins to <b>1PS4MVjzMojF9xX472yc87QVaVmhai8jKA</b>
